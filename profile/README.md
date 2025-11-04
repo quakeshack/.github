@@ -9,11 +9,14 @@ This is an educational and recreational project.
 Though the vision is to provide an id tech 2 based game engine running in the browser for fun multiplayer projects.
 The engine is supposed to be extensible and fun to work with. Made for boomer shooter enthusiasts.
 
-### Where to look next?
+### Want to play the game? 
 
-Want to play the game? Join the game at [quakeshack.chrisnew.de](https://quakeshack.chrisnew.de/).
+* 🕹 Feel free to start the [singleplayer campaign](https://play.quakeshack.dev/?map=start)
+* 🤼 Or play online with friends using the [game lobby](https://master.quakeshack.dev/)
 
-Looking for the engine? It’s at [quakeshack/engine](https://github.com/quakeshack/engine).
+### Want to nerd out?
+
+Looking for the engine code? It’s at [quakeshack/engine](https://github.com/quakeshack/engine).
 
 Looking for the reimplemented Quake game logic? It’s at [quakeshack/game](https://github.com/quakeshack/game).
 
