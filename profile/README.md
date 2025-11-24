@@ -27,3 +27,7 @@ There are some videos about the development process on [YouTube](https://www.you
 ### Contribution
 
 If you are interesting in joining the party, join us over at the IRC channel #quakeshack on hackint.
+
+### Acknowledgement and Special Thanks
+
+* To [lavender.pet](https://github.com/lavenderdotpet/) for making the logo
