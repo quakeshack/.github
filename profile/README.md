@@ -2,7 +2,7 @@
 
 ### What is The Quake Shack about?
 
-It’s about learning modern browser features, JavaScript and game engines.
+It’s about learning modern browser features, TypeScript and game engines.
 
 This is an educational and recreational project.
 
