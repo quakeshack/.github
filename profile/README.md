@@ -1,6 +1,6 @@
 ## Welcome!
 
-### What is The Quake Shack about?
+### What is QuakeShack about?
 
 It’s about learning modern browser features, TypeScript and game engines.
 
